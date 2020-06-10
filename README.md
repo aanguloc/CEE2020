@@ -4,6 +4,7 @@
 <img src="https://aula.usm.cl/pluginfile.php/6373409/mod_label/intro/endimg1.png" width="40%" border="4" align="left">
 
 <h2 align="center"> Ayudantías 2020-S1   </h2>
+
 <a href="https://colab.research.google.com/drive/1vh3apIiBNQoTEb_s38GzR5xOXFU9ofQK?usp=sharing">Ayudantía 1</a>
   
 <a>Ayudantía 2</a>
