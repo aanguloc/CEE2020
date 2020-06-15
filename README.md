@@ -7,7 +7,7 @@
 
 <a href="https://colab.research.google.com/drive/1vh3apIiBNQoTEb_s38GzR5xOXFU9ofQK?usp=sharing">Ayudantía 1</a>
   
-<a>Ayudantía 2</a>
+<a href="https://colab.research.google.com/drive/10ty3VYClAx5EG0HTdXzX7K1cPn8GU6Lf?usp=sharing">Ayudantía 2</a>
 
 <a href="https://colab.research.google.com/drive/1Vo-5ERKRpXqBf6fCJ7JvIh1JqSIh5sri?usp=sharing">Ayudantía 3</a>
 
