@@ -23,4 +23,5 @@
 
 <a href="https://colab.research.google.com/drive/1l9_zw_8Kuq0mPCmBbBi9FdTpyPZN3jSU?usp=sharing">Ayudantía 9</a>
 
+<a href="https://colab.research.google.com/drive/1CzJB7ncA-143FzTQMIcvpPJ15eDQBETt?usp=sharing">Ayudantía 10</a>
 
