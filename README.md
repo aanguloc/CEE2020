@@ -28,3 +28,5 @@
 <a href="https://colab.research.google.com/drive/1obWdqGgOADqVfzY9EvWKLPUtPCxwkwpk?usp=sharing">Ayudantía 11: Máquina sincrónica (Parte I)</a>
 
 <a href="https://colab.research.google.com/drive/1tz6ZeYDv7MRFwK6X5ma4FpjlUcnmHs4_?usp=sharing">Ayudantía 12: Máquina sincrónica (Parte II)</a>
+
+<a href="https://colab.research.google.com/drive/1sXZ_urIjLMDpyaB6oc8Kjj4M3CZUQXNF?usp=sharing">Ayudantía 13: Ayudantía 13: Máquina asincrónica</a>
