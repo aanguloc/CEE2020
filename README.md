@@ -29,4 +29,6 @@
 
 <a href="https://colab.research.google.com/drive/1tz6ZeYDv7MRFwK6X5ma4FpjlUcnmHs4_?usp=sharing">Ayudantía 12: Máquina sincrónica (Parte II)</a>
 
-<a href="https://colab.research.google.com/drive/1sXZ_urIjLMDpyaB6oc8Kjj4M3CZUQXNF?usp=sharing">Ayudantía 13: Ayudantía 13: Máquina asincrónica</a>
+<a href="https://colab.research.google.com/drive/1sXZ_urIjLMDpyaB6oc8Kjj4M3CZUQXNF?usp=sharing">Ayudantía 13: Máquina asincrónica</a>
+
+<a href="https://colab.research.google.com/drive/1MtkO_L7jWLyZiVcaQ394XCteRcWGA1Z2?usp=sharing">Ayudantía 14: Máquina de corriente continua</a>
