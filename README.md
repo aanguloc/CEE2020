@@ -1,9 +1,7 @@
-<h1 align="center"> CEE2020   </h1>
+<h1 align="center"> Conversión Electromecánica de Energia  </h1>
 
   
-<img src="conversion.png" width="50%" border="4" align="left">
-
-<h2 align="center"> Ayudantías 2020-S1   </h2>
+<img src="conversion.png" width="100%" border="4" align="center">
 
 <a href="https://colab.research.google.com/drive/1vh3apIiBNQoTEb_s38GzR5xOXFU9ofQK?usp=sharing">Ayudantía 1: El circuito magnético (parte I)</a>
   
